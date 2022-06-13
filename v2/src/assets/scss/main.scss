@@ -1,3 +1,8 @@
+@import "https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap";
+@import "./base/reset";
+@import "./abstracts/variables";
+
 body {
-  background-color: red;
+  font-family: $poppins;
+  font-size: $fs-16;
 }
